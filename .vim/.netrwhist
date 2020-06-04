@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/sandre/labo/django/django-env/WeekRecipe/WeekRecipe'
+let g:netrw_dirhist_0='/home/sandre/labo/django/django-env/WeekRecipe'
+let g:netrw_dirhist_9='/home/sandre/tutorial/mysite/.git'
+let g:netrw_dirhist_8='/var/lib/pgsql'
+let g:netrw_dirhist_7='/home/sandre/labo/odoo/opticausoara_addons/opticausoara_core/datas'
+let g:netrw_dirhist_6='/home/sandre/labo/odoo/opticausoara_addons/opticausoara_core'
+let g:netrw_dirhist_5='/home/sandre/labo/odoo/opticausoara_addons'
+let g:netrw_dirhist_4='/var/lib/pgsql'
+let g:netrw_dirhist_3='/home/sandre/labo/odoo/opticausoara_addons/.hg'
+let g:netrw_dirhist_2='/home/sandre/labo/angular/blog/src/app'
